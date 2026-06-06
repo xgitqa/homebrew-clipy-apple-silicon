@@ -1,6 +1,6 @@
 cask "clipy-apple-silicon" do
-  version "2.0.1"
-  sha256 "73ff8140d9ac42c2f1ae869f0e9d20fbca08b424fd5b6681849c12b590e5e587"
+  version "2.0.2"
+  sha256 "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
 
   url "https://github.com/xgitqa/Clipy-apple-silicon/releases/download/v#{version}/Clipy-v#{version}-arm64.zip"
   name "Clipy"
